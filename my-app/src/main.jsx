@@ -7,5 +7,6 @@ createRoot(document.getElementById('root')).render(
   <StrictMode>
     <h1>jjjjj</h1>
     <p>kooo</p>
+    <h2>no</h2>
   </StrictMode>,
 )
