@@ -5,6 +5,6 @@ import App from './App.jsx'
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
-    <h3>kooo</h3>
+    <h3>k</h3>
   </StrictMode>,
 )
